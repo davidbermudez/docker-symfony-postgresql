@@ -2,7 +2,7 @@
 
 ## Files and Directories
 
-Create file enviroments variables `.env`
+Create file environment variables `.env`
 
     POSTGRES_PASSWORD=passw
     POSTGRES_DB=db_name
